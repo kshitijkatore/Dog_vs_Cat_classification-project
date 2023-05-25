@@ -75,5 +75,5 @@ Kaggle environment Installation
   mobilenet_model = 'https://tfhub.dev/google/tf2-preview/   inception_v3/feature_vector/4'
 ```
 
-## 🕮 Please go through [House_Price_prediction.docx]() more info.
+## 🕮 Please go through [Dog_vs_Cat_classification.docx]() more info.
 
